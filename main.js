@@ -47,7 +47,7 @@ var app = new Vue({
             isOut: false,
             dismissCountDown: 10,
             dismissSecs: 200,
-            showPayQR: 0,
+            showPayQR: 1,
             showAlert: false,
             showCart: false,
             order: {
